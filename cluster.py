@@ -1,4 +1,3 @@
-
 class Cluster:
     """
     Handles clustering of programs based on their weighted score.
